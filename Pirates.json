@@ -19,5 +19,10 @@
         "password": "CORP",
         "expirydate": "01-06-2026",
         "Allowoffline": false
-    }
+    },
+    "device_id": "d4c45c187abb3c1d",
+        "username": "PIRATES",
+        "password": "CORP",
+        "expirydate": "01-12-2026",
+        "Allowoffline": false
 ]
